@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+
+# GPS temp files
+*.npp
+
+# Object files
+**/obj/*
